@@ -1,0 +1,27 @@
+
+
+Module : Steps : Method : waitForElement:Timestamp: 10-12-2019 18:35:08 Message  : org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"link text","selector":"Registration"}
+Command duration or timeout: 30.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'DESKTOP-FD040DP', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=30.0, platform=WINDOWS, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5ade2e4d-f3ec-4cea-a37a-a45e6a092f11
+*** Element info: {Using=link text, value=Registration}
+
+Module : Steps : Method : openUrl:Timestamp: 09-02-2020 17:06:11 Message  : org.openqa.selenium.NoSuchWindowException: Window not found. The browser window may have been closed.
+Command duration or timeout: 148 milliseconds
+Build info: version: '2.48.1', revision: 'd80083d8f7b0b0319976ef9712f7a2b531abaceb', time: '2015-10-08 14:16:53'
+System info: host: 'ESICDRLAPTOP019', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=30.0, platform=WINDOWS, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d92745eb-8ed5-4d38-82e7-7321c7089d53
+
+Module : Steps : Method : openUrl:Timestamp: 09-02-2020 17:11:41 Message  : java.lang.NullPointerException
+
+Module : Steps : Method : openUrl:Timestamp: 09-02-2020 17:11:43 Message  : java.lang.NullPointerException
+
+Module : Steps : Method : openUrl:Timestamp: 09-02-2020 17:15:24 Message  : java.lang.NullPointerException
+
+Module : Steps : Method : openUrl:Timestamp: 09-02-2020 17:15:26 Message  : java.lang.NullPointerException

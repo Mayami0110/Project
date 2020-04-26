@@ -1,0 +1,41 @@
+[TestNG] Running:
+  E:\Automation\HISDailyReg\suite.xml
+
+8:1:5 AM
+8:1:5 AM
+Text is present
+Click Here To Login
+8:1:7 AM
+Text is present
+User Login
+8:1:11 AM
+Text is present
+Applications
+Login successfully
+8:1:25 AM
+Administrative Services facility selected
+Data Searched Successful
+8:2:3 AM
+1113978086
+Patient CheckIn Successful
+8:2:7 AM
+Doctor Worklist Opened Successful
+8:2:12 AM
+Text is present
+COMPLAINTS AND HISTORY
+Patient Casesheet Opened Successful
+By.xpath: //*[@id='ctl00_cphpage_lblCollapseTitle'][text()='COMPLAINTS AND HISTORY']
+8:2:26 AM
+beforeClose : {cc791f7d-6ecb-40df-b561-1f7031a9beaf}
+afterclose : {06fded96-14aa-4834-af45-7c64e2892c3b}
+Text is present
+Please Login with your credentials
+User is Logged Out
+Excel written successfully..
+Message send successfully....
+
+===============================================
+Suite
+Total tests run: 7, Failures: 0, Skips: 0
+===============================================
+
